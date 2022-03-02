@@ -6,6 +6,8 @@ Use effect övning: https://gist.github.com/zocom-christoffer-wallenberg/eb1f3e5
 
 ## Artiklar
 
+Tenary operator: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator
+
 ## Videor
 
 https://scrimba.com/learn/learnreact
